@@ -5,7 +5,7 @@ import mul
 print ("enter two integers")
 a = int(input())
 b = int(input())
-print (" you entered two numbers: a = ", a, ", b = ", b, )
+print ("you entered two numbers: a = " + str(a) + ", b = " + str(b) )
 print("choose the operation:")
 print ("1. addition")
 print ("2. Multiplication")
